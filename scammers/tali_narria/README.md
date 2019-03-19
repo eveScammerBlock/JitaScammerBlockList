@@ -1,0 +1,1 @@
+![](tali_narria.png)
