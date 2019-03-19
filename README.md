@@ -20,4 +20,5 @@ Peace and love.
 [Alur Kurer](scammers/alur_kurer/) | [Angelique Agosta](scammers/angelique_agosta/) | [Galadriel Tinuviel](scammers/galadriel_tinuviel/)  
 [John Naaris](scammers/john_naaris/) | [keen Tsutola](scammers/keen_tsytola/) | [Moon Chunk](scammers/)  
 [Mr Sour Cream](scammers/mr_sour_cream/) | [serenity trader222](scammers/serenity_trader222/) | [SULTAN 2009](scammers/sultan_2009)  
-[Treynar](scammers/treynar/) | [Tali Naaria](scammers/tali_narria/)
+[Treynar](scammers/treynar/) | [Tali Naaria](scammers/tali_narria/) | [WATER THOSE](scammers/water_those/)  
+[Silverdrift](scammers/water_those/)
